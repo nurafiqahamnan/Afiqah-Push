@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "551440618085",
+    "firebase_url": "https://pushafiqah.firebaseio.com",
+    "project_id": "pushafiqah",
+    "storage_bucket": "pushafiqah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551440618085:android:e46f6547014e8827",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.afiqah_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551440618085-qevc628phark0o5hia4c24c5ulk1fvjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2MZQ3BRhzR85d99w2tK-5RTgAzp0p4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
